@@ -28,7 +28,9 @@ button {
   }
 }
 
-.tablink:hover {
+.tablink:hover,
+.tablink:active,
+.tablink:focus {
   background-color: #777;
 }
 
